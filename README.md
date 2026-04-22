@@ -58,3 +58,7 @@ For M2 Macs, using the `-n`, `-i`, and `-f` options can help obtain more stable 
 Try tuning these options to get better results.
 
 The recommended settings are `-i25 -n180 -f` (See also https://github.com/narugit/smctemp/pull/34/files#r1721025001)
+
+## Support
+
+⭐ If you find `smctemp` useful, please consider starring the repository — it helps others discover the tool.
